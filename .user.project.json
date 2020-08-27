@@ -1,0 +1,50 @@
+{
+  "run": [
+    {
+      "filePath": "/webapp/Component.js",
+      "previewMode": 1,
+      "dataMode": 1,
+      "workspace": "withoutWorkspace",
+      "ui5ActiveVersion": null,
+      "ui5VerSource": null,
+      "isDefaultVersion": 0,
+      "urlParameters": [],
+      "hashParameter": "",
+      "backendSystem": [
+        {
+          "source": "WAD_001",
+          "destinations": "S4HANA_Demo21_SE"
+        }
+      ],
+      "_metadata": {
+        "id": 1875518,
+        "runnerId": "fiorirunner",
+        "displayName": "Run Component.js",
+        "lastRunTimeStamp": 1490772238857
+      }
+    },
+    {
+      "filePath": "/ZVNSG17_QUIZ_DASHBOARD/webapp/test/testOVP.html",
+      "previewMode": 1,
+      "dataMode": 1,
+      "workspace": "withoutWorkspace",
+      "ui5ActiveVersion": null,
+      "ui5VerSource": null,
+      "isDefaultVersion": 0,
+      "urlParameters": [],
+      "hashParameter": "",
+      "backendSystem": [
+        {
+          "source": "WAD_001",
+          "destinations": "S4HANA_Demo21_SE"
+        }
+      ],
+      "_metadata": {
+        "id": 4319344,
+        "runnerId": "webapprunner",
+        "displayName": "Run testOVP.html",
+        "lastRunTimeStamp": 1490616507916
+      }
+    }
+  ]
+}
